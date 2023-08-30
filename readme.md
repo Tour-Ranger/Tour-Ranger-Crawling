@@ -1,4 +1,4 @@
-# 다나와 여행 크롤러
+# 다나와 여행 패키지 크롤러
 
 - 해당 프로젝트는 VSCode와 Window OS를 기본 전제로 하여 설명하고 있음.
 - Python 프로젝트 이므로 실행을 위해 VSCode의 Python Extension 설치 필수(설치하면 우상단에 Run 버튼이 생긴다!)
